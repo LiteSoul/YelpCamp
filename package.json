@@ -7,9 +7,9 @@
   "author": "Ariel Blasi <exorcismo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.3",
     "ejs": "^2.5.6",
-    "express": "^4.15.3",
+    "express": "^4.21.0",
     "mongodb": "^2.2.30",
     "mongoose": "^4.11.3"
   }
